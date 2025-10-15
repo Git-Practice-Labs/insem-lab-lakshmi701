@@ -1,7 +1,7 @@
 # Lab 09: Develop a Jenkins pipeline script for code integration using a sample full-stack app.
 
 ## Objective
-Describe the objective of this lab here.
+To Develop a Jenkins pipeline script for code integration using a sample full-stack app.
 
 ## Tools / Technologies
 List the tools and technologies required (e.g., Git, GitHub, Docker, Jenkins).
